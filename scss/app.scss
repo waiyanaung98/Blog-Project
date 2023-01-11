@@ -1,0 +1,17 @@
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  //xxl: 1320px
+);
+
+$secondary: rgba(237, 237, 237, 1);
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Sofia+Sans+Semi+Condensed:wght@300;400&display=swap');
+
+// font-family: 'Bakbak One', cursive;
+// font-family: 'Sofia Sans Semi Condensed', sans-serif;
+
