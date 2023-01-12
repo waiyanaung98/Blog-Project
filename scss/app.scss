@@ -8,6 +8,15 @@ $container-max-widths: (
 
 $secondary: rgba(237, 237, 237, 1);
 
+.but{
+  $btn-padding-x: 2rem;
+  
+}
+
+.fol{
+  $btn-padding-x: 3rem;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
 
 @import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Sofia+Sans+Semi+Condensed:wght@300;400&display=swap');
